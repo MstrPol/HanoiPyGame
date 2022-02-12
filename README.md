@@ -10,3 +10,5 @@ git clone https://github.com/MstrPol/HanoiPyGame.git
 pip install -r requirements.txt
 python main.py
 ```
+![img.png](doc/img.png)
+![img_1.png](doc/img_1.png)

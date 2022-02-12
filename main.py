@@ -101,7 +101,7 @@ if __name__ == '__main__':
     for tower in towers:
         all_sprites.add(tower)
 
-    items_count = 5
+    items_count = 4
     items_generator(towers[0], items_count)
     for item in towers[0].items:
         all_sprites.add(item)
